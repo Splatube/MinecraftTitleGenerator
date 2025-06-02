@@ -66,14 +66,14 @@
     "id": "star",
     "author": "Splatube",
     "height": 48,
-    "textureWidth": 128,
-    "textureHeight": 64,
-    "border": 62,
+    "textureWidth": 92,
+    "textureHeight": 90,
+    "border": 78,
     "faces": [
-      [16, 44]
+      [16, 59]
     ],
     "ends": [
-      [0, 16, 44, 60]
+      [0, 16, 59, 75]
     ]
   }
 ]

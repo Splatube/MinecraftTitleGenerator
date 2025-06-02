@@ -1,10 +1,9 @@
 {
-	"credit": "Made with Blockbench",
-	"ambientocclusion": false,
+	"credit": "By Splatube",
 	"texture_size": [92, 90],
 	"textures": {
-		"0": "flat",
-		"particle": "flat"
+		"0": "star:flat",
+		"particle": "star:flat"
 	},
 	"elements": [
 		{

@@ -3,5 +3,11 @@
     "flat": {
       "author": "Splatube"
     }
+  },
+  "overlays": {
+    "highlights_top": {
+      "name": "Highlights (Top)",
+      "author": "Splatube"
+    }
   }
 }
