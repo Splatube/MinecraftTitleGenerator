@@ -61,5 +61,19 @@
     "ends": [
       [0, 16, 44, 60]
     ]
+  },
+  {
+    "id": "star",
+    "author": "Splatube",
+    "height": 48,
+    "textureWidth": 128,
+    "textureHeight": 64,
+    "border": 62,
+    "faces": [
+      [16, 44]
+    ],
+    "ends": [
+      [0, 16, 44, 60]
+    ]
   }
 ]
